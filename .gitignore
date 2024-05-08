@@ -1,0 +1,11 @@
+# environment variables
+.env
+
+# compiled output
+/dist
+/tmp
+/out-tsc
+/.idea
+
+# dependencies
+/node_modules
